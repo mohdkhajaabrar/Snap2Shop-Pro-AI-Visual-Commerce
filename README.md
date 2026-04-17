@@ -1,4 +1,6 @@
 # 🛍️ Snap2Shop Pro | AI Visual Commerce
+# Project Demo 
+https://github.com/user-attachments/assets/37c7794e-898d-4f7a-9176-c57c3c034675
 
 ## 🚀 Project Overview
 
@@ -93,7 +95,7 @@ pip install -r requirements.txt
 ### 3. Run the App
 
 ```
-streamlit run mp2.py
+streamlit run main.py
 ```
 
 ---
@@ -128,7 +130,7 @@ streamlit run mp2.py
 
 ## 👨‍💻 Author
 
-**Shamsheer**
+**Mohammed Khaja Abrar**
 AI & ML Student | Developer
 
 ---
